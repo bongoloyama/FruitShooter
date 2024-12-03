@@ -20,13 +20,6 @@ ID: CE21032;  Year: 3rd
 Semester: 1st; Session: 2020-21
 ***
 
-**Under the supervision of -**
-***
-
-Md. Mosaddik Hasan Sir
-
-Associate Professor
-
 Department of Computer Science and Engineering
 
 Mawlana Bhashani Science and Technology University 
